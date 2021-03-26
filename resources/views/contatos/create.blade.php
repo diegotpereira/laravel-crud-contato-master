@@ -1,6 +1,6 @@
-@extends('base')
+@extends('layout')
 
-@section('main')
+@section('content')
 <div class="row">
   <div class="col-md-8 offset-sm-2">
       <h1 class="display-3">Adicionar Contato</h1>

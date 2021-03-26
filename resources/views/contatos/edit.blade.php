@@ -1,5 +1,5 @@
-@extends('base')
-@section('main')
+@extends('layout')
+@section('content')
 <div class="row">
    <div classcol-md-8 offset-sm-2>
       <h1 class="display-3">Atualizar Contato</h1>
